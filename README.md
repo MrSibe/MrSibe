@@ -60,10 +60,8 @@
 ---
 
 ### 📊 GitHub Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSibe&show_icons=true&theme=github_dark&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSibe&layout=compact&theme=github_dark&hide_border=true&title_color=0D9488&text_color=ffffff" width="41%" />
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSibe&theme=github-compact&hide_border=true&color=0D9488" width="100%" />
