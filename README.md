@@ -25,10 +25,7 @@
 
 ### 🚀 精选项目 (Featured Project)
 
-#### 📝 [KnowNote](https://github.com/MrSibe/KnowNote)
-> **轻量化本地 AI 知识库 · RAG 架构实践**
-- **技术亮点**：采用 **Electron + React** 跨平台交付，集成 **SQLite-vec** 向量数据库实现本地语义搜索。
-- **项目现状**：开源后获得广泛关注，致力于提供隐私优先的 AI 笔记体验。
+![KnowStats](./profile/knownote-stats.svg)
 
 ---
 
