@@ -15,40 +15,42 @@
 
 ---
 
-### 📋 Profile
-- 🎓 **Education**: 四川农业大学 · CS 大三
-- 🔭 **Focus**: 专注 **Go/Java** 高并发后端架构，热衷于 AI 能力的工程化落地。
-- 🛠️ **Environment**: 日常使用 **Arch Linux** 生产环境，深度集成 **Neovim**、**Tmux** 与 **Ghostty**。
-- ✍️ **Writing**: 技术公众号 **「西贝茶馆」** 作者。
+### 📋 关于我
+
+我是 MrSibe，一名不务正业的代码发明家。打算做做后端开发养活自己，但平时更喜欢 Vibe Coding 一些好玩的小工具。
+
+想了解我更多，可以看看我的博客：[**西贝的代码宇宙**](https://mrsibe.top/)，也可以看看我的微信公众号：**西贝茶馆**，那里有很多我想给你分享的东西！
 
 ---
 
-### 🚀 精选项目 (Featured Project)
+### 🚀 精选项目
+
+这里是我自己觉得还不错的小项目：
 
 ![KnowStats](./profile/knownote-stats.svg)
 
 ---
 
-### 🧰 技术版图 (Tech Stack)
+### 🧰 技术版图
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🚀 Backend Core</strong><br />
+      <strong>🚀 后端技术栈</strong><br />
       <img src="https://skillicons.dev/icons?i=java,spring,go,mysql,redis,kafka,mongodb,cpp&perline=4" />
     </td>
     <td width="50%" valign="top">
-      <strong>🌐 Frontend & Fullstack</strong><br />
+      <strong>🌐 前端技术栈</strong><br />
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs&perline=4" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>☁️ DevOps & Infra</strong><br />
+      <strong>☁️ 后端技术栈</strong><br />
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx&perline=4" />
     </td>
     <td width="50%" valign="top">
-      <strong>🐧 OS & Toolchain</strong><br />
+      <strong>🐧 开发工具</strong><br />
       <img src="https://skillicons.dev/icons?i=arch,ubuntu,linux,neovim,bash,git&perline=4" />
     </td>
   </tr>
@@ -56,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 GitHub 数据
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
