@@ -6,11 +6,6 @@
     <img src="https://img.shields.io/github/followers/MrSibe?label=Followers&style=flat-square&color=0D9488&logo=github" />
   </p>
 
-  <p align="center">
-    <a href="https://github.com/MrSibe"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
-    <a href="mailto:mrsibe@qq.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://space.bilibili.com/386324877"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
-  </p>
 </div>
 
 ---
