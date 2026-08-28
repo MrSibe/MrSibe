@@ -1,14 +1,18 @@
-## 👋 Hi, I'm MrSibe
+## Hi, I'm MrSibe 👋
 
-A computer science student who enjoys building things.
+I'm a computer science student and backend developer, mainly working with Go and Java.
 
-I mainly work with **Java and Go**, and I'm interested in backend development, distributed systems, open source, and AI.
+I'm interested in distributed systems, open source and AI. I also enjoy astronomy and occasionally build astronomy-related software.
 
-I like reading source code and building small projects to understand how things actually work.
+### Projects
 
-I'm also an astronomy enthusiast, so you'll occasionally find some astronomy-related projects here.
+* **[KnowNote](https://github.com/MrSibe/KnowNote)** — Local-first AI knowledge base and NotebookLM alternative
+* **[SkyEye](https://github.com/MrSibe/sky-eye)** — Asteroid search, astrometry and photometry software
+* **[godis](https://github.com/MrSibe/godis)** — Redis-compatible in-memory key-value store written in Go
+* **[goding](https://github.com/MrSibe/goding)** — A lightweight coding agent written in Go
 
-Most of the repositories on this account are things I'm building, learning, or experimenting with.
+I'm also learning distributed systems through MIT 6.5840 and contributing to open-source projects such as Apache Dubbo Go.
 
-🌐 Blog: [mrsibe.top](https://mrsibe.top)
-📝 微信公众号：**西贝茶馆**
+Blog: [mrsibe.top](https://mrsibe.top)
+
+微信公众号：**西贝茶馆**
